@@ -12,3 +12,5 @@ gitlens 확장 프로그램 다운
 = git 이 기존에 등록한 파일이 변경되었다는 뜻
 
 confirm to save and commit
+
+//additional content
